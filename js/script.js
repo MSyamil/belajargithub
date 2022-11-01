@@ -1,0 +1,1 @@
+alert ("Klik OK jika ingin melanjukan ke web")
